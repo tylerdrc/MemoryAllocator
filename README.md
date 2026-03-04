@@ -12,6 +12,4 @@ A new directory called "build" should have been created. Run your program by nav
 
 ## Requirements
 
-A compiler (you likely installed gcc for Project 1 - this will work for this Project as well).
-
-CMake (if you used the default environment for WSL, you will likely be able to obtain this with "sudo apt install cmake")
+You must utilize the Ubuntu server instance for development and compilation as before.
