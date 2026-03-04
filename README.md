@@ -1,12 +1,10 @@
-# Project 02 for the University of Tulsa's CYB-3053: Operating Systems Concept course
+# Project 2 for the University of Tulsa's CYB-3053: Operating Systems Concept course
 
 ## Please review the Project handout for full assignment details.
 
 ## Additional Instructions
 
-Use the same environment you used for Project 1 (WSL, a Linux VM, Cygwin, other). We will not be building support for Windows.
-
-Ensure that you obtain all files, preferably through a git clone.
+We are utilizing github classroom as before. 
 
 To compile: At the top-level directory (where you should see CMakeLists.txt, build.sh, and src/), execute the build.sh file ("./build.sh" in your terminal, without quotes).
 
